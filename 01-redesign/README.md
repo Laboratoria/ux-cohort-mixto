@@ -75,7 +75,7 @@ por una investigación.
 
 ### Recursos
 
-- [Los user personas](https://drive.google.com/drive/folders/1etdcDyoN7C038ti_i4RhavK2DWEAc1yH?usp=sharing)
+- [Resultados de la investigación](https://docs.google.com/presentation/d/1EzfS-bl0Wyl29WH34LZancc_Qo-3Gewt9P0lYfEPN4E/edit#slide=id.g7fac357d58_0_202)
 - El [diseño del app en Figma](https://www.figma.com/file/S2NwVUvMYU5J30EhTBrnEK/LIM-App-Financiera?node-id=810%3A7200)
 , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/1hj56576).
 
