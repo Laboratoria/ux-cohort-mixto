@@ -41,7 +41,7 @@ que asesoremos a **uno** de sus miembros en crear un portal desde donde los
 consumidores compren sus productos sin intermediarios. Entre los miembros puedes
 elegir a:
 
-* Empresa 1
+* Fiesta
 * Empresa 2
 * Empresa 3
 * Empresa 4
