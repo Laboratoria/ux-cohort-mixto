@@ -22,18 +22,16 @@ Como compradores, no solemos ser conscientes del ‘viaje’ que pasaba el produ
 
 ## 2. Resumen del proyecto
 
-### “Nuevo portal de e-commerce”
-
 Hemos contactado con 6 emprendedores que están atravesando por un rediseño de negocio para llegar a sus usuarios, tanto de Perú como de México. Son empresas medianas de los rubros de artesanías, capacitación, editorial, catering y diseño de interiores. Cada emprendedor tiene un reto distinto para llegar a su usuario final, sin embargo, todos coinciden en que el canal será crear una plataforma digital.
 
 Entre los emprendimientos tenemos a:
 
-* [Mi habla Mi tiempo] (https://www.facebook.com/MiHablaMiTiempo/)
-* [Ámate] (https://www.facebook.com/grupoamatepsicologos)
-* [Mandroque Editores] (https://www.facebook.com/Mandroque/)
+* [Mi habla Mi tiempo](https://www.facebook.com/MiHablaMiTiempo/)
+* [Ámate](https://www.facebook.com/grupoamatepsicologos)
+* [Mandroque Editores](https://www.facebook.com/Mandroque/)
 * [Fiesta Feria Independiente](https://www.facebook.com/fiesta.feriaindependiente) 
-* [Montania MX] (https://www.facebook.com/montania.mx)
-* [Betabel Catering] (https://www.facebook.com/BetabelCatering/?ref=py_c)
+* [Montania MX](https://www.facebook.com/montania.mx)
+* [Betabel Catering](https://www.facebook.com/BetabelCatering/?ref=py_c)
 
 Luego de conocer con qué emprendimiento trabajarás, los emprendedores te piden que los ayudes a hacer un estudio inicial de cómo debería ser este producto digital y cómo llegar a sus usuarios finales. Quieren que averigües cómo son los consumidores que utilizarían este canal y cuáles son sus nuevas motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
 
