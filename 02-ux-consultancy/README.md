@@ -115,7 +115,7 @@ README.md  explicando el proceso del proyecto:
 * Problemas identificados en la investigación (del cliente y del usuario)
 * Definición del público objetivo
   - User persona
-  - Customer Journey Map (indicando pain y gain points)
+  - Service blueprint (indicando pain y gain points)
 * Definición de la solución/producto
 * Link a prototipo navegable
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
