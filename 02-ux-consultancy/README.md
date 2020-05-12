@@ -16,7 +16,7 @@
 
 ## 1. Preámbulo
 
-El coronavirus ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible. En estas condiciones, la venta física es cada vez menos viable. Sin embargo, con el confinamiento, la cantidad de horas que las personas pasan en internet ha dado más relevancia a los negocios que ya tenían una posición en la web. 
+El Corona virus ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible. En estas condiciones, la venta física es cada vez menos viable. Sin embargo, con el confinamiento, la cantidad de horas que las personas pasan en internet ha dado más relevancia a los negocios que ya tenían una posición en la web. 
 
 Como compradores, no solemos ser conscientes del ‘viaje’ que pasaba el producto para llegar al supermercado o tienda de donde los tomábamos. Del lado del negocio , ahora no solo debemos ser conscientes de ese viaje, sino también repensar e innovar la forma de llegar a los usuarios quienes han cambiado sus comportamientos y prioridades de compra. 
 
@@ -33,7 +33,7 @@ Entre los emprendimientos tenemos a:
 * [Montania MX](https://www.facebook.com/montania.mx)
 * [Betabel Catering](https://www.facebook.com/BetabelCatering/?ref=py_c)
 
-Luego de conocer con qué emprendimiento trabajarás, los emprendedores te piden que los ayudes a hacer un estudio inicial de cómo debería ser este producto digital y cómo llegar a sus usuarios finales. Quieren que averigües cómo son los consumidores que utilizarían este canal y cuáles son sus nuevas motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
+Luego de conocer con qué emprendimiento trabajarás, los emprendedores te piden que los ayudes a hacer un estudio inicial de cómo debería ser este producto/servicio digital y cómo llegar a sus usuarios finales. Quieren que averigües cómo son los consumidores que utilizarían este canal y cuáles son sus nuevas motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
 
 Una vez conozcas a los posibles consumidores debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo hará llegar sus productos o servicios. Para que guíes a la empresa que elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y decidirse entre los productos o servicios que ofrecen.
 
@@ -45,7 +45,7 @@ De la misma manera deberás definir cuál es la mejor forma de ofrecerle los pro
 
 ### Tópicos a cubrir
 
-Para completar este proyecto tendrás que profundizar en conceptos como: UX research (entrevistas, benchmark), arquitectura de la información (flujo de contenido, mapa de sitio), diseño visual y de interacción (wireframes y prototipado), y user testing.
+Para completar este proyecto tendrás que profundizar en conceptos como: UX research (entrevistas, benchmark), arquitectura de la información (flujo de contenido, mapa de sitio), diseño de servicios, diseño visual y de interacción (wireframes y prototipado), y user testing.
 
 ## 4. Consideraciones generales
 
@@ -75,7 +75,7 @@ supuestos para entender cómo piensan los otros.
 
 ### 1) General
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
+En este proyecto necesitarás hablar con usuarios reales y entender
 cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
 solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
 vas a tener que ir documentando las actividades que realices a través de fotos,
@@ -106,36 +106,20 @@ Antes de empezar a realizar las actividades que elijas tendrás que sustentar co
 
 ## 7. Entrega
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+El proyecto será entregado en una presentación en donde detalles y sustentes:
 
-README.md  explicando el proceso del proyecto:
+* Las actividades que realizaste
+* Las funcionalidades que priorizaste
+* El diseño del producto o servicio
+* Los resultados de los testeos
 
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-  - User persona
-  - Service blueprint (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto.
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en Loom de máximo 10 minutos explicando tu documento.
-
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+Adicionalmente, podrás compartir en una carpeta de Google Drive los documentos complementarios que sustenten tu proceso:
 
 * Fotos, videos, guías de las actividades que realizaste
 * Flujo de usuario
 * Mapa de sitio
+* Service blueprints
+* Videos
 * Etc.
 
 ## 8. Otras consideraciones
@@ -150,9 +134,9 @@ con las actividades planteadas.
 
 Al definir el producto recuerda pensar en:
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
+* Quiénes son los principales usuarios del producto o servicio
+* Cuáles son los objetivos del negocio en relación con el producto o servicio
+* Cuáles son los objetivos de estos usuarios en relación con el producto o servicio
 * Cuál será la propuesta de valor de la plataforma que vas a crear
 * Cuáles son los contenidos que el usuario quiere ver, la información que
   buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
@@ -161,18 +145,8 @@ Al definir el producto recuerda pensar en:
 * Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la plataforma
 * Cómo crees que el producto les está resolviendo sus problemas
 
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
 ## 9. Hacker edition
 
 * En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
   tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación
