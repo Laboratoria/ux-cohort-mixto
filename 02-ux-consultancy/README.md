@@ -16,68 +16,32 @@
 
 ## 1. Preámbulo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
+El Corona virus ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible. En estas condiciones, la venta física es cada vez menos viable. Sin embargo, con el confinamiento, la cantidad de horas que las personas pasan en internet ha dado más relevancia a los negocios que ya tenían una posición en la web. 
 
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+Como compradores, no solemos ser conscientes del ‘viaje’ que pasaba el producto para llegar al supermercado o tienda de donde los tomábamos. Del lado del negocio , ahora no solo debemos ser conscientes de ese viaje, sino también repensar e innovar la forma de llegar a los usuarios quienes han cambiado sus comportamientos y prioridades de compra. 
 
 ## 2. Resumen del proyecto
 
-### “Nuevo portal de e-commerce”
+Hemos contactado con 6 emprendedores que están atravesando por un rediseño de negocio para llegar a sus usuarios, tanto de Perú como de México. Son empresas medianas de los rubros de artesanías, capacitación, editorial, catering y diseño de interiores. Cada emprendedor tiene un reto distinto para llegar a su usuario final, sin embargo, todos coinciden en que el canal será crear una plataforma digital.
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a:
+Entre los emprendimientos tenemos a:
 
-* Empresa 1
-* Empresa 2
-* Empresa 3
-* Empresa 4
-* Empresa 5
+* [Mi habla Mi tiempo](https://www.facebook.com/MiHablaMiTiempo/)
+* [Ámate](https://www.facebook.com/grupoamatepsicologos)
+* [Mandroque Editores](https://www.facebook.com/Mandroque/)
+* [Fiesta Feria Independiente](https://www.facebook.com/fiesta.feriaindependiente) 
+* [Montania MX](https://www.facebook.com/montania.mx)
+* [Betabel Catering](https://www.facebook.com/BetabelCatering/?ref=py_c)
 
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+Luego de conocer con qué emprendimiento trabajarás, los emprendedores te piden que los ayudes a hacer un estudio inicial de cómo debería ser este producto/servicio digital y cómo llegar a sus usuarios finales. Quieren que averigües cómo son los consumidores que utilizarían este canal y cuáles son sus nuevas motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+Una vez conozcas a los posibles consumidores debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo hará llegar sus productos o servicios. Para que guíes a la empresa que elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y decidirse entre los productos o servicios que ofrecen.
 
 ## 3. Objetivos de aprendizaje
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo. Entender los principales pasos y preguntas que debemos hacernos, cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin perder de vista los objetivos iniciales. Esperamos que en este proyecto puedas entender las necesidades y oportunidades de mejora de las empresas, aprender y empaparte de los posibles modelos de negocio así como investigar a su audiencia, los usuarios que tradicionalmente consumían sus productos o, si fuera el caso, a sus potenciales usuarios, entendiendo sus preferencias y contexto en el que lo hacen.
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
+De la misma manera deberás definir cuál es la mejor forma de ofrecerle los productos de tu cliente a sus usuarios y pensando en una propuesta de valor y sus objetivos. También deberás definir los contenidos, la interacción y el diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta plataforma. Este proyecto se debe "resolver" en squads, por lo que un objetivo importante es aprender a gestionar los tiempos, la comunicación y la planificación para ganar experiencia en trabajos con entrega grupal. Se recomienda que cada una de las integrantes se haga responsable de una parte del trabajo: (1) el entendimiento del problema, (2) planeamiento y diseño de solución, (3) validación de la solución.
 
 ### User Centricity
 
@@ -154,60 +118,16 @@ plataforma.
 
 ## 4. Consideraciones generales
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+Para ser una gran UX no sólo debes familiarizarte con los conceptos sino, también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y empatía son claves para el éxito laboral. 
+Para poder realizar una buena entrevista, un benchmark o un user testing necesitas en todo momento estar atenta al cómo y no sólo al qué. En este sentido, es esencial que practiques el modo en que te comunicas frente al cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan y no sólo enfocarte en lo que tú quieres comunicar.
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-  tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-  relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-  haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-  cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-  curiosidad es clave para entender la problemática. El problema del cliente no
-  siempre es el primero que parece, debes investigar la empresa y la competencia
-  para entender lo que sucede. Para mantener una buena relación con los clientes
-  debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-  resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-  mejores prácticas en la industria del comercio electrónico para poder mostrarle
-  al cliente casos de éxito.
+* Relación con el cliente: la empresa con la que te toque trabajar será tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena relación con el cliente debes escuchar de manera activa qué es lo que necesitan, haciendo preguntas que te ayuden a entender sus necesidades para luego buscar cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la curiosidad es clave para entender la problemática. El problema del cliente no siempre es el primero que parece, debes investigar la empresa y la competencia para entender lo que sucede. Para mantener una buena relación con los clientes debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles resultados y el beneficio que ellos podrían obtener. También debes estudiar las mejores prácticas de plataformas digitales de la industria para poder mostrarle al cliente casos de éxito.
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-  el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-  haciendo la competencia o industrias similares. De esta manera, puedes traer
-  buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-  le da la confianza de que efectivamente tienes conocimiento de su problemática
-  y que has estudiado todas las posibles soluciones. Para que el benchmark sea
-  efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-  las referencias que resulten obvias, sino otras industrias que puedan funcionar
-  de manera similar o empresas pequeñas que están teniendo casos de éxito.
+* Benchmark: revisar referencias y dar referencias es clave para tu relación con el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está haciendo la competencia o industrias similares. De esta manera, puedes traer buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente le da la confianza de que efectivamente tienes conocimiento de su problemática y que has estudiado todas las posibles soluciones. Para que el benchmark sea efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar las referencias que resulten obvias, sino otras industrias que puedan funcionar de manera similar o empresas pequeñas que están teniendo casos de éxito. 
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-  debes realizar un plan de trabajo, donde se visualicen las herramientas que
-  estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-  que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-  importante que siempre sustentes tu idea, no se trata de trabajar de manera
-  mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-  manera de aproximarse a una posible solución.
+* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática debes realizar un plan de trabajo, donde se visualicen las herramientas que estás utilizando y por qué las escogiste. No todas las problemáticas requieren que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es importante que siempre sustentes tu idea, no se trata de trabajar de manera mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor manera de aproximarse a una posible solución.
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-  garantiza que los problemas se detecten antes, las buenas ideas se introducen
-  más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-  innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-  se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-  técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-  testing es una buena forma de profundizar en las necesidades y preferencias de
-  los usuarios observando sus reacciones mientras usan un producto. Para que el
-  testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-  actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-  al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-  producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-  llévalo a buscar las mejoras y posibles errores, generando una relación de
-  confianza con el usuario.
+* Testing centrado en el usuario: Realizar las pruebas con los usuarios garantiza que los problemas se detecten antes, las buenas ideas se introducen más rápido y se reducen los esfuerzos de diseño y desarrollo de productos innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El testing es una buena forma de profundizar en las necesidades y preferencias de los usuarios observando sus reacciones mientras usan un producto. Para que el testing realmente esté centrado en el usuario, tú debes centrarte también en él, actuando con curiosidad y empatía en todo momento, preguntando de manera activa al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu producto al siguiente nivel. No trates de que el usuario apruebe tu producto, llévalo a buscar las mejoras y posibles errores, generando una relación de confianza con el usuario.
 
 Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
 Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
@@ -224,7 +144,7 @@ supuestos para entender cómo piensan los otros.
 
 ### 1) General
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
+En este proyecto necesitarás hablar con usuarios reales y entender
 cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
 solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
 vas a tener que ir documentando las actividades que realices a través de fotos,
@@ -238,14 +158,7 @@ las secciones que detallaremos más adelante.
 
 ### 2) Entendimiento del problema
 
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
+Durante esta parte te asegurarás que el producto que diseñarás es el correcto, es decir, que sigue objetivos de negocio y que resuelve necesidades reales de los usuarios. Para ello tendrás que entender a tu cliente y a sus usuarios (o potenciales usuarios). Luego de entender el problema, tendrás que plantear cómo es que vas a resolver dicho problema. Para ello puedes realizar muchas actividades, sin embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir bien qué actividades realizarás basándose en la experiencia del Reto #1.
 
 ### 3) Planteamiento y validación de la solución
 
@@ -258,60 +171,24 @@ los recursos que tienes.
 
 ## 6. Consideraciones técnicas
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+Antes de empezar a realizar las actividades que elijas tendrás que sustentar con tu coach  el motivo de esa elección. El coach te dará el ok para que puedas empezar.
 
 ## 7. Entrega
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+El proyecto será entregado en una presentación en donde detalles y sustentes:
 
-README.md  explicando el proceso del proyecto:
+* Las actividades que realizaste
+* Las funcionalidades que priorizaste
+* El diseño del producto o servicio
+* Los resultados de los testeos
 
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-  - User persona
-  - Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto.
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en Loom de máximo 10 minutos explicando tu documento.
-
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+Adicionalmente, podrás compartir en una carpeta de Google Drive los documentos complementarios que sustenten tu proceso:
 
 * Fotos, videos, guías de las actividades que realizaste
 * Flujo de usuario
 * Mapa de sitio
+* Service blueprints
+* Videos
 * Etc.
 
 ## 8. Otras consideraciones
@@ -326,29 +203,19 @@ con las actividades planteadas.
 
 Al definir el producto recuerda pensar en:
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
+* Quiénes son los principales usuarios del producto o servicio
+* Cuáles son los objetivos del negocio en relación con el producto o servicio
+* Cuáles son los objetivos de estos usuarios en relación con el producto o servicio
+* Cuál será la propuesta de valor de la plataforma que vas a crear
+* Cuáles son los contenidos que el usuario quiere ver, la información que
   buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
   encontrar lo que busca y comprarlo
 * Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
+* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la plataforma
 * Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
 
 ## 9. Hacker edition
 
 * En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
   tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación
