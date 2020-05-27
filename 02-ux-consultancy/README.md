@@ -45,75 +45,75 @@ De la misma manera deberás definir cuál es la mejor forma de ofrecerle los pro
 
 ### User Centricity
 
-[ ] Diseñar un producto o servicio poniendo al usuario en el centro.
-[ ] Tomar en cuenta las necesidades de los usuarios a lo largo de todo el 
+- [ ] Diseñar un producto o servicio poniendo al usuario en el centro.
+- [ ] Tomar en cuenta las necesidades de los usuarios a lo largo de todo el 
   proceso de diseño.
-[ ] Identificar y priorizar usuarios relevantes para el proyecto.
+- [ ] Identificar y priorizar usuarios relevantes para el proyecto.
 
 ### Business mindset
 
-[ ] Entender los objetivos del proyecto en términos de negocio.
-[ ] Entender el modelo de negocio.
-[ ] Considerar los objetivos del negocio durante el desarrollo del proyecto.
-[ ] Definir métricas relevantes para validar el cumplimiento de los objetivos del
+- [ ] Entender los objetivos del proyecto en términos de negocio.
+- [ ] Entender el modelo de negocio.
+- [ ] Considerar los objetivos del negocio durante el desarrollo del proyecto.
+- [ ] Definir métricas relevantes para validar el cumplimiento de los objetivos del
   negocio.
-[ ] Entender estado del negocio en relación con el mercado local y global.
+- [ ] Entender estado del negocio en relación con el mercado local y global.
 
 ### Investigación (research)
 
-[ ] Planificar investigación basada en las necesidades del proyecto.
-[ ] Identificar y revisar distintas fuentes de información e inspiración
+- [ ] Planificar investigación basada en las necesidades del proyecto.
+- [ ] Identificar y revisar distintas fuentes de información e inspiración
   relevantes para el proyecto.
-[ ] Utilizar herramientas de analítica.
-[ ] Analizar e interpretar data cuantitativa.
-[ ] Elegir y sustentar el # usuarios que participan en sesiones de entrevistas y
+- [ ] Utilizar herramientas de analítica.
+- [ ] Analizar e interpretar data cuantitativa.
+- [ ] Elegir y sustentar el # usuarios que participan en sesiones de entrevistas y
   testeos.
-[ ] Crear y probar guía de entrevistas o testing.
-[ ] Realizar entrevistas con usuarios empáticas y sin sesgos.
-[ ] Documentar entrevistas y testeos.
-[ ] Adaptar plan de investigación de acuerdo a resultados obtenidos.
-[ ] Planear y ejecutar testeos de usabilidad de prototipos en distintos niveles
+- [ ] Crear y probar guía de entrevistas o testing.
+- [ ] Realizar entrevistas con usuarios empáticas y sin sesgos.
+- [ ] Documentar entrevistas y testeos.
+- [ ] Adaptar plan de investigación de acuerdo a resultados obtenidos.
+- [ ] Planear y ejecutar testeos de usabilidad de prototipos en distintos niveles
   de fidelidad.
 
 ### Síntesis
 
-[ ] Distinguir observaciones/data/respuestas que aportan valor al proyecto.
-[ ] Encontrar patrones en los resultados de la investigación.
-[ ] Diferenciar entre observaciones, hallazagos e insights.
-[ ] Mapear experiencias de clientes a través de herramientas como el Service
+- [ ] Distinguir observaciones/data/respuestas que aportan valor al proyecto.
+- [ ] Encontrar patrones en los resultados de la investigación.
+- [ ] Diferenciar entre observaciones, hallazagos e insights.
+- [ ] Mapear experiencias de clientes a través de herramientas como el Service
   Blueprint y el Customer Journey Map.
-[ ] Generar múltiples ideas de solución al reto del proyecto.
-[ ] Priorizar posibles soluciones reto del proyecto basandose en los objetivos
+- [ ] Generar múltiples ideas de solución al reto del proyecto.
+- [ ] Priorizar posibles soluciones reto del proyecto basandose en los objetivos
   del proyecto, las necesidades del usuario y las factibilidad de
   implementación.
-[ ] Definir funcionalidades del producto o servicio.
+- [ ] Definir funcionalidades del producto o servicio.
 
 ### Diseño de producto
 
-[ ] Priorizar y proponer flujos de usuario que les ayuden a conseguir sus
+- [ ] Priorizar y proponer flujos de usuario que les ayuden a conseguir sus
   objetivos con el producto.
-[ ] Identicar contenidos relevantes en el producto.
-[ ] Priorizar contenidos necesarios para el producto.
-[ ] Prototipar en distintos niveles de fidelidad.
-[ ] Crear prototipos de alta fidelidad que incluyan interacciones (ej. pantallas
+- [ ] Identicar contenidos relevantes en el producto.
+- [ ] Priorizar contenidos necesarios para el producto.
+- [ ] Prototipar en distintos niveles de fidelidad.
+- [ ] Crear prototipos de alta fidelidad que incluyan interacciones (ej. pantallas
   de carga, pantallas de error).
-[ ] Diseñar producto o servicio siguiendo mejores prácticas de usabilidad y
+- [ ] Diseñar producto o servicio siguiendo mejores prácticas de usabilidad y
   accesibilidad.
-[ ] Seguir los principios básicos de diseño visual.
-[ ] Construir y mantener una librería de componentes o guía de estilos.
+- [ ] Seguir los principios básicos de diseño visual.
+- [ ] Construir y mantener una librería de componentes o guía de estilos.
 
 ### Comunicación 
 
-[ ] Presentar y sustentar propuestas a cliente.
-[ ] Negociar efectivamente con cliente.
-[ ] Manejar relaciones con cliente.
+- [ ] Presentar y sustentar propuestas a cliente.
+- [ ] Negociar efectivamente con cliente.
+- [ ] Manejar relaciones con cliente.
 
 ### Planificación
 
-[ ] Organizar  y dar seguimiento a actividades a desarrollarse durante el
+- [ ] Organizar  y dar seguimiento a actividades a desarrollarse durante el
   proyecto.
-[ ] Priorizar actividades a desarrollarse durante el proyecto.
-[ ] Elegir las herramientas y métodos a utilizar de acuerdo a las necesidades
+- [ ] Priorizar actividades a desarrollarse durante el proyecto.
+- [ ] Elegir las herramientas y métodos a utilizar de acuerdo a las necesidades
   del proyecto.
 
 ## 4. Consideraciones generales
