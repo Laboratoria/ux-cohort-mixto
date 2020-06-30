@@ -1,9 +1,9 @@
 # Consultoría UX
 
-- [Pichincha](/00-pichincha)
-- [Mi Banco](/01-mi-banco)
-- [Mi Doc](/02-mi-doc)
-- [Aprende](/03-aprende)
+- [Pichincha](/02-ux-consultancy/00-pichincha)
+- [Mi Banco](/02-ux-consultancy/01-mi-banco)
+- [Mi Doc](/02-ux-consultancy/02-mi-doc)
+- [Aprende](/02-ux-consultancy/03-aprende)
 
 ## Retos
 
