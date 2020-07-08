@@ -1,4 +1,4 @@
-# Mi Doc
+# MiDoc
 
 ## Contexto
 
@@ -14,5 +14,5 @@ para lanzar una nueva versíon que incluya mensajería.
 
 ## Reto 
 
-- Identificar qué mejoras se pueden realizar en su aplicación actual.
+- Identificar qué mejoras se pueden realizar en su aplicación  y web actual.
 - Diseñar la función de mensajería de la nueva versión de su app.

@@ -2,7 +2,7 @@
 
 - [Pichincha](/02-ux-consultancy/00-banco-pichincha)
 - [Mi Banco](/02-ux-consultancy/01-mi-banco)
-- [Mi Doc](/02-ux-consultancy/02-mi-doc)
+- [Mi Doc](/02-ux-consultancy/02-midoc)
 - [Aprende](/02-ux-consultancy/03-aprende)
 
 ## Retos
@@ -19,7 +19,7 @@
 - Etiquetas: `investigación ux`, `estrategia ux`, `experimentación`, `service
  design`, `prototipado`, `business mindset`
 
-### Mi Doc
+### MiDoc
 
 - País: México
 - Etiquetas: `investigación ux`, `interaction design`, `ui-design`, `health
