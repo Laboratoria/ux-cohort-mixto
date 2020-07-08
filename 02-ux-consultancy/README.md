@@ -2,7 +2,7 @@
 
 - [Pichincha](/02-ux-consultancy/00-banco-pichincha)
 - [Mi Banco](/02-ux-consultancy/01-mi-banco)
-- [Mi Doc](/02-ux-consultancy/02-midoc)
+- [MiDoc](/02-ux-consultancy/02-midoc)
 - [Aprende](/02-ux-consultancy/03-aprende)
 
 ## Retos
