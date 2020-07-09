@@ -71,7 +71,7 @@ para lanzar una nueva versíon que incluya mensajería.
 - [ ] Priorizar contenidos necesarios para el producto.
 - [ ] Prototipar en distintos niveles de fidelidad.
 - [ ] Crear prototipos de alta fidelidad que incluyan interacciones (ej. pantallas de carga, pantallas de error).
-- [ ] Entender y utilizar las guías de interfaces móviles.
+- [ ] Entender y utilizar las guías de interfaces nativas móviles.
 - [ ] Documentar requerimentos de diseño para equipo de desarrollo utilizando herramientas de handoff.
 - [ ] Seguir los principios básicos de diseño visual.
 - [ ] Construir y mantener una librería de componentes o guía de estilos.
