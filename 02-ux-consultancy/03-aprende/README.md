@@ -33,7 +33,7 @@ utilizarla como plataforma para B2C también.
 - [ ] Entender el modelo de negocio.
 - [ ] Considerar los objetivos del negocio durante el desarrollo del proyecto.
 - [ ] Definir métricas relevantes para validar el cumplimiento de los objetivos del negocio.
-- [ ] Entender estado del negocio en relación con el mercado local y global.
+- [ ] Entender estado del negocio en relación con el mercado local y/o global.
 - [ ] Plantear correctamente hipótesis de solución.
 - [ ] Diseñar experimentos para validar hipótesis. Incluyendo los indicadores a medir para la validación.
 
@@ -69,7 +69,7 @@ utilizarla como plataforma para B2C también.
 ### Diseño de interacción
 
 - [ ] Priorizar y proponer flujos de usuario que les ayuden a conseguir sus objetivos con el producto.
-- [ ] Identicar contenidos relevantes en el producto.
+- [ ] Identificar contenidos relevantes en el producto.
 
 ### Diseño de producto
 
