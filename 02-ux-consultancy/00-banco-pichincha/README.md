@@ -38,7 +38,7 @@ mantenemos socialmente distanciados?_*
 - [ ] Entender el modelo de negocio.
 - [ ] Considerar los objetivos del negocio durante el desarrollo del proyecto.
 - [ ] Definir métricas relevantes para validar el cumplimiento de los objetivos del negocio.
-- [ ] Entender estado del negocio en relación con el mercado local y global.
+- [ ] Entender estado del negocio en relación con el mercado local y/o global.
 - [ ] Plantear correctamente hipótesis de solución.
 - [ ] Diseñar experimentos para validar hipótesis. Incluyendo los indicadores a medir para la validación.
 
@@ -47,7 +47,7 @@ mantenemos socialmente distanciados?_*
 - [ ] Planificar investigación basada en las necesidades del proyecto.
 - [ ] Elegir y sustentar el # usuarios que participan en sesiones de entrevistas y testeos.
 - [ ] Crear y probar guía de entrevistas o testing.
-- [ ] Realizar entrevistas con usuarios empáticas y sin sesgos .
+- [ ] Realizar entrevistas con usuarios empáticas y sin sesgos.
 - [ ] Documentar entrevistas y testeos.
 - [ ] Adaptar plan de investigación de acuerdo a resultados obtenidos.
 - [ ] Identificar y revisar distintas fuentes de información e inspiración relevantes para el proyecto.
@@ -73,7 +73,9 @@ mantenemos socialmente distanciados?_*
 
 ### Diseño de interacción
 
-- [ ] Identicar contenidos relevantes en el producto.
+- [ ] Identificar contenidos relevantes en el producto.
+- [ ] Priorizar y proponer flujos de usuario que les ayuden a conseguir sus objetivos con el producto.
+
 
 ### Diseño de producto
 
